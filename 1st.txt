@@ -1,0 +1,2 @@
+welcome to GitHub world
+git init is used to initialize empty repository
